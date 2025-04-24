@@ -1,0 +1,26 @@
+{
+  "Pune": {
+    "data": {
+      "temperature": 30.36,
+      "condition": "clear sky",
+      "wind": 1.24
+    },
+    "timestamp": 1745377542339
+  },
+  "Amravati": {
+    "data": {
+      "temperature": 35.95,
+      "condition": "clear sky",
+      "wind": 3.18
+    },
+    "timestamp": 1745377561654
+  },
+  "Nagpur": {
+    "data": {
+      "temperature": 34.89,
+      "condition": "clear sky",
+      "wind": 3.24
+    },
+    "timestamp": 1745377575895
+  }
+}
